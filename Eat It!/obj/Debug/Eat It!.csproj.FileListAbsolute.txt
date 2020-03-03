@@ -1,0 +1,27 @@
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.exe.config
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.exe
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.pdb
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.csprojResolveAssemblyReference.cache
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.EatIt.resources
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Properties.Resources.resources
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.csproj.GenerateResource.Cache
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.exe
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.pdb
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Kolacja.resources
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Obiad.resources
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Formularz.resources
+C:\Users\danio\Desktop\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.XML
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.exe.config
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.XML
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.exe
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\bin\Debug\Eat It!.pdb
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Formularz.resources
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Kolacja.resources
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Obiad.resources
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.EatIt.resources
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat_It_.Properties.Resources.resources
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.exe
+C:\Users\Daniel\Desktop\pulpit\JPWP PROJEKT\Eat It!\Eat It!\obj\Debug\Eat It!.pdb

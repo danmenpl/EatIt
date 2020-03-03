@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="akt field" Url="html/6840fd68-3850-5fb4-a5c3-643726326119.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="EatIt.Dispose Method " Url="html/fd51ec10-0ddf-02ed-b354-8d79282423b0.htm" />
+    <HelpKINode Title="Formularz.Dispose Method " Url="html/44fd9eb4-21f0-f0f1-1526-be89db4ea509.htm" />
+    <HelpKINode Title="Kolacja.Dispose Method " Url="html/730eb0cf-cf1c-5657-99f5-51fd4e1fa77d.htm" />
+    <HelpKINode Title="Obiad.Dispose Method " Url="html/b4f40740-9848-e2e9-26d2-a6e0e7ec6b32.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EatIt class">
+    <HelpKINode Title="EatIt Class" Url="html/8eeb3247-9585-b25c-2a97-422c6d233414.htm" />
+    <HelpKINode Title="constructor" Url="html/adf1177c-7992-5ace-e9a4-15a9c9589a4e.htm" />
+    <HelpKINode Title="events" Url="html/12c592ae-4c3b-2493-53f8-25113314044f.htm" />
+    <HelpKINode Title="methods" Url="html/16a2e329-df3d-c633-c488-85bd45f94d93.htm" />
+    <HelpKINode Title="properties" Url="html/c5901685-54b2-9d25-8776-66581c8d7261.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EatIt.Dispose method" Url="html/fd51ec10-0ddf-02ed-b354-8d79282423b0.htm" />
+  <HelpKINode Title="EatIt.EatIt constructor" Url="html/adf1177c-7992-5ace-e9a4-15a9c9589a4e.htm" />
+  <HelpKINode Title="EatIt.Form1_Load method" Url="html/2c60e776-b8d3-c725-459f-8499e829d34d.htm" />
+  <HelpKINode Title="EatIt.SpotNull method" Url="html/d01fd09a-2195-47ff-6438-8ae0e035ac7d.htm" />
+  <HelpKINode Title="Eat_It_ namespace" Url="html/c809139b-94f9-57de-4517-62ed1deed316.htm" />
+  <HelpKINode Title="Eat_It_.EatIt class" Url="html/8eeb3247-9585-b25c-2a97-422c6d233414.htm" />
+  <HelpKINode Title="Eat_It_.Formularz class" Url="html/86735b76-0512-7cd7-35b3-660962e2c180.htm" />
+  <HelpKINode Title="Eat_It_.Gracz class" Url="html/48d9fa3a-68a1-4b6d-c6b3-6c5869faf49a.htm" />
+  <HelpKINode Title="Eat_It_.Item class" Url="html/4581ae9f-c8ab-f5c2-d683-ed1520da59d4.htm" />
+  <HelpKINode Title="Eat_It_.Kolacja class" Url="html/90d926ad-1b28-bec6-064e-cca22d2c64b2.htm" />
+  <HelpKINode Title="Eat_It_.Obiad class" Url="html/f15d420a-3cdc-0458-3ffa-2eb8129676bf.htm" />
+  <HelpKINode Title="Eat_It_.WorldObject class" Url="html/3a187d64-e351-7bc9-e62e-9e2e23d21c0e.htm" />
+  <HelpKINode Title="Form1_Load method" Url="html/2c60e776-b8d3-c725-459f-8499e829d34d.htm" />
+  <HelpKINode Title="Formularz class">
+    <HelpKINode Title="Formularz Class" Url="html/86735b76-0512-7cd7-35b3-660962e2c180.htm" />
+    <HelpKINode Title="constructor" Url="html/edd97ec1-b892-c4fd-6f36-7800fca38fc6.htm" />
+    <HelpKINode Title="events" Url="html/131ec414-a8c8-f556-28c1-3e5cdb2a97c9.htm" />
+    <HelpKINode Title="fields" Url="html/8d416aee-4c94-fdfb-32f1-d10e2410d196.htm" />
+    <HelpKINode Title="methods" Url="html/500da1a9-8311-815a-3350-05fc050a0a05.htm" />
+    <HelpKINode Title="properties" Url="html/c0ad4708-d057-1783-6d45-b5f4d9d1b479.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Formularz.akt field" Url="html/6840fd68-3850-5fb4-a5c3-643726326119.htm" />
+  <HelpKINode Title="Formularz.Dispose method" Url="html/44fd9eb4-21f0-f0f1-1526-be89db4ea509.htm" />
+  <HelpKINode Title="Formularz.Formularz constructor" Url="html/edd97ec1-b892-c4fd-6f36-7800fca38fc6.htm" />
+  <HelpKINode Title="Formularz.plec field" Url="html/5d4ac0a0-0ff2-3c9d-e6a1-6cb97321a91d.htm" />
+  <HelpKINode Title="Formularz.waga field" Url="html/6b6244b2-2aba-8318-26e1-5405bc2671df.htm" />
+  <HelpKINode Title="Formularz.wiek field" Url="html/dd286846-d20f-b83d-e5c9-2fc8d1abe809.htm" />
+  <HelpKINode Title="Formularz.wzrost field" Url="html/86a12415-5c0c-2246-0e8a-61d492313a98.htm" />
+  <HelpKINode Title="Gracz class">
+    <HelpKINode Title="Gracz Class" Url="html/48d9fa3a-68a1-4b6d-c6b3-6c5869faf49a.htm" />
+    <HelpKINode Title="constructor" Url="html/5d0d7b07-fc6c-3c7f-3b1a-b08c9d17755b.htm" />
+    <HelpKINode Title="events" Url="html/7ce4b91f-b022-9dcd-8211-05dfbf5a5585.htm" />
+    <HelpKINode Title="methods" Url="html/c588c780-c3fd-d0c0-47bf-2c3e92db9b01.htm" />
+    <HelpKINode Title="properties" Url="html/05edae02-9518-1f63-7cd4-84b08b2457c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Gracz.Gracz constructor" Url="html/5d0d7b07-fc6c-3c7f-3b1a-b08c9d17755b.htm" />
+  <HelpKINode Title="Gracz.p_cal property" Url="html/393fed77-ec29-b00c-4be8-479205f395e4.htm" />
+  <HelpKINode Title="Gracz.p_car property" Url="html/26c98479-092e-1107-7f11-84313cb38557.htm" />
+  <HelpKINode Title="Gracz.p_fat property" Url="html/d8fa8467-6ec4-0eb3-3f25-128a67ec0b8d.htm" />
+  <HelpKINode Title="Gracz.p_pro property" Url="html/2be2a146-1c99-f190-b202-92ac0d227743.htm" />
+  <HelpKINode Title="Gracz.p_zapotrzebowanie property" Url="html/66e4ee71-e298-accc-895d-2407f5e99ea8.htm" />
+  <HelpKINode Title="Gracz.Zapotrzebowanie method" Url="html/a2f8e317-bcb8-4f34-6255-a12e33caf53a.htm" />
+  <HelpKINode Title="Gracz._akt property" Url="html/4c1ee84d-d9e2-6527-c309-d468c886d27e.htm" />
+  <HelpKINode Title="Gracz._current_hp property" Url="html/2301c9bb-b560-6c6e-3176-d3ce31bdf75b.htm" />
+  <HelpKINode Title="Gracz._max_hp property" Url="html/a0180be1-58c1-42a3-b879-886a00854713.htm" />
+  <HelpKINode Title="Gracz._plec property" Url="html/d0fd1a65-77ef-c888-0bd7-8ad0c9a1e7d2.htm" />
+  <HelpKINode Title="Gracz._waga property" Url="html/01b399bc-aec7-c7ef-d949-b3839de065a3.htm" />
+  <HelpKINode Title="Gracz._wiek property" Url="html/36718d69-324c-f54c-ca5a-e8a61029ee2e.htm" />
+  <HelpKINode Title="Gracz._wzrost property" Url="html/eb6d985e-50b7-5621-63b9-38117714ecef.htm" />
+  <HelpKINode Title="Inicjacja method" Url="html/8ae4c016-5a21-1e54-677e-687864e4f4f4.htm" />
+  <HelpKINode Title="Item class">
+    <HelpKINode Title="Item Class" Url="html/4581ae9f-c8ab-f5c2-d683-ed1520da59d4.htm" />
+    <HelpKINode Title="constructor" Url="html/dc9f9676-8180-6b84-1ceb-e01b933b9ec5.htm" />
+    <HelpKINode Title="events" Url="html/5b0211eb-67b1-d62f-498b-16c63dacc5f3.htm" />
+    <HelpKINode Title="methods" Url="html/07404b42-af86-d19a-7dd3-ab464b550159.htm" />
+    <HelpKINode Title="properties" Url="html/af5e9f5f-b5fd-3b63-996b-588340b3cc1b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item.Inicjacja method" Url="html/8ae4c016-5a21-1e54-677e-687864e4f4f4.htm" />
+  <HelpKINode Title="Item.Item constructor" Url="html/dc9f9676-8180-6b84-1ceb-e01b933b9ec5.htm" />
+  <HelpKINode Title="Item._calories property" Url="html/40cca0f1-2e4b-270e-c5ab-f64969570d07.htm" />
+  <HelpKINode Title="Item._carbs property" Url="html/3f610fd7-adc0-11bd-1e33-9a5a7d6a5166.htm" />
+  <HelpKINode Title="Item._fat property" Url="html/3b679431-0059-3485-1955-24a5806a0005.htm" />
+  <HelpKINode Title="Item._id property" Url="html/6b31e0df-8d89-4cba-8f6b-2597b6413a0a.htm" />
+  <HelpKINode Title="Item._name property" Url="html/833d4bf6-54f7-9729-537b-0823f4de016b.htm" />
+  <HelpKINode Title="Item._protein property" Url="html/595746c9-a8e8-330b-db57-7e9664843c85.htm" />
+  <HelpKINode Title="Item._spot property" Url="html/71346b6d-eb62-59bf-dae5-0d4e89bcd887.htm" />
+  <HelpKINode Title="Kolacja class">
+    <HelpKINode Title="Kolacja Class" Url="html/90d926ad-1b28-bec6-064e-cca22d2c64b2.htm" />
+    <HelpKINode Title="constructor" Url="html/e42b579d-dfb5-46d6-b39b-6de5df1e34d7.htm" />
+    <HelpKINode Title="events" Url="html/debd7483-0b3d-9ba5-ba4c-535db816e223.htm" />
+    <HelpKINode Title="methods" Url="html/3c896ae9-ca3f-f233-a781-28f56f9edc68.htm" />
+    <HelpKINode Title="properties" Url="html/e442fa5a-12ff-c23a-f0c7-0a6c74590f54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Kolacja.Dispose method" Url="html/730eb0cf-cf1c-5657-99f5-51fd4e1fa77d.htm" />
+  <HelpKINode Title="Kolacja.Kolacja constructor" Url="html/e42b579d-dfb5-46d6-b39b-6de5df1e34d7.htm" />
+  <HelpKINode Title="Kolacja.SpotNull method" Url="html/bba1b41b-b628-ee29-c42f-129470c80bfa.htm" />
+  <HelpKINode Title="Obiad class">
+    <HelpKINode Title="Obiad Class" Url="html/f15d420a-3cdc-0458-3ffa-2eb8129676bf.htm" />
+    <HelpKINode Title="constructor" Url="html/1eb2b907-7eda-2719-77ba-e8cfc4eca8ec.htm" />
+    <HelpKINode Title="events" Url="html/3dfa245b-c704-c2a5-2899-15fb31b8e4ac.htm" />
+    <HelpKINode Title="methods" Url="html/911856db-0edb-47ce-1241-cf75210b20c8.htm" />
+    <HelpKINode Title="properties" Url="html/0f619123-32ac-e8ac-5c7c-2283dec75544.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Obiad.Dispose method" Url="html/b4f40740-9848-e2e9-26d2-a6e0e7ec6b32.htm" />
+  <HelpKINode Title="Obiad.Obiad constructor" Url="html/1eb2b907-7eda-2719-77ba-e8cfc4eca8ec.htm" />
+  <HelpKINode Title="Obiad.SpotNull method" Url="html/e8712210-c68f-dc66-9d84-5fbee601cd8e.htm" />
+  <HelpKINode Title="plec field" Url="html/5d4ac0a0-0ff2-3c9d-e6a1-6cb97321a91d.htm" />
+  <HelpKINode Title="p_cal property" Url="html/393fed77-ec29-b00c-4be8-479205f395e4.htm" />
+  <HelpKINode Title="p_car property" Url="html/26c98479-092e-1107-7f11-84313cb38557.htm" />
+  <HelpKINode Title="p_fat property" Url="html/d8fa8467-6ec4-0eb3-3f25-128a67ec0b8d.htm" />
+  <HelpKINode Title="p_pro property" Url="html/2be2a146-1c99-f190-b202-92ac0d227743.htm" />
+  <HelpKINode Title="p_zapotrzebowanie property" Url="html/66e4ee71-e298-accc-895d-2407f5e99ea8.htm" />
+  <HelpKINode Title="SpotNull method">
+    <HelpKINode Title="EatIt.SpotNull Method " Url="html/d01fd09a-2195-47ff-6438-8ae0e035ac7d.htm" />
+    <HelpKINode Title="Kolacja.SpotNull Method " Url="html/bba1b41b-b628-ee29-c42f-129470c80bfa.htm" />
+    <HelpKINode Title="Obiad.SpotNull Method " Url="html/e8712210-c68f-dc66-9d84-5fbee601cd8e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="waga field" Url="html/6b6244b2-2aba-8318-26e1-5405bc2671df.htm" />
+  <HelpKINode Title="wiek field" Url="html/dd286846-d20f-b83d-e5c9-2fc8d1abe809.htm" />
+  <HelpKINode Title="WorldObject class">
+    <HelpKINode Title="WorldObject Class" Url="html/3a187d64-e351-7bc9-e62e-9e2e23d21c0e.htm" />
+    <HelpKINode Title="constructor" Url="html/1574e60e-87e4-c314-eac2-c60b97d63c42.htm" />
+    <HelpKINode Title="events" Url="html/630f1bc1-b2ee-717d-6b6f-d583abbfb4d7.htm" />
+    <HelpKINode Title="methods" Url="html/cdcac24f-706a-d57a-8cdf-704ab6bb4d6d.htm" />
+    <HelpKINode Title="properties" Url="html/bda33719-2d0f-eb2f-11d1-5af89152f511.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WorldObject.WorldObject constructor" Url="html/1574e60e-87e4-c314-eac2-c60b97d63c42.htm" />
+  <HelpKINode Title="WorldObject._name property" Url="html/373663df-2516-a237-87df-67932f9f9894.htm" />
+  <HelpKINode Title="wzrost field" Url="html/86a12415-5c0c-2246-0e8a-61d492313a98.htm" />
+  <HelpKINode Title="Zapotrzebowanie method" Url="html/a2f8e317-bcb8-4f34-6255-a12e33caf53a.htm" />
+  <HelpKINode Title="_akt property" Url="html/4c1ee84d-d9e2-6527-c309-d468c886d27e.htm" />
+  <HelpKINode Title="_calories property" Url="html/40cca0f1-2e4b-270e-c5ab-f64969570d07.htm" />
+  <HelpKINode Title="_carbs property" Url="html/3f610fd7-adc0-11bd-1e33-9a5a7d6a5166.htm" />
+  <HelpKINode Title="_current_hp property" Url="html/2301c9bb-b560-6c6e-3176-d3ce31bdf75b.htm" />
+  <HelpKINode Title="_fat property" Url="html/3b679431-0059-3485-1955-24a5806a0005.htm" />
+  <HelpKINode Title="_id property" Url="html/6b31e0df-8d89-4cba-8f6b-2597b6413a0a.htm" />
+  <HelpKINode Title="_max_hp property" Url="html/a0180be1-58c1-42a3-b879-886a00854713.htm" />
+  <HelpKINode Title="_name property">
+    <HelpKINode Title="Item._name Property " Url="html/833d4bf6-54f7-9729-537b-0823f4de016b.htm" />
+    <HelpKINode Title="WorldObject._name Property " Url="html/373663df-2516-a237-87df-67932f9f9894.htm" />
+  </HelpKINode>
+  <HelpKINode Title="_plec property" Url="html/d0fd1a65-77ef-c888-0bd7-8ad0c9a1e7d2.htm" />
+  <HelpKINode Title="_protein property" Url="html/595746c9-a8e8-330b-db57-7e9664843c85.htm" />
+  <HelpKINode Title="_spot property" Url="html/71346b6d-eb62-59bf-dae5-0d4e89bcd887.htm" />
+  <HelpKINode Title="_waga property" Url="html/01b399bc-aec7-c7ef-d949-b3839de065a3.htm" />
+  <HelpKINode Title="_wiek property" Url="html/36718d69-324c-f54c-ca5a-e8a61029ee2e.htm" />
+  <HelpKINode Title="_wzrost property" Url="html/eb6d985e-50b7-5621-63b9-38117714ecef.htm" />
+</HelpKI>

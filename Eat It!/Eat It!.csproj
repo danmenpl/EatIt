@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{512CB837-C45E-4898-950F-16CFCC13E4D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Eat_It_</RootNamespace>
+    <AssemblyName>Eat It!</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\Eat It!.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Gracz.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Item.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Funkcje.cs" />
+    <Compile Include="Levels\Formularz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Levels\Formularz.Designer.cs">
+      <DependentUpon>Formularz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Levels\Sniadanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Levels\Sniadanie.Designer.cs">
+      <DependentUpon>Sniadanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Levels\Kolacja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Levels\Kolacja.Designer.cs">
+      <DependentUpon>Kolacja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Levels\Obiad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Levels\Obiad.Designer.cs">
+      <DependentUpon>Obiad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\WorldObject.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Levels\Formularz.resx">
+      <DependentUpon>Formularz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Levels\Kolacja.resx">
+      <DependentUpon>Kolacja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Levels\Obiad.resx">
+      <DependentUpon>Obiad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Levels\Sniadanie.resx">
+      <DependentUpon>Sniadanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\apple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\artichoke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\avocado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\bacon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\banana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\bell-pepper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\boiled-egg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\bread.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\broccoli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\cake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\candy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\carrot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\cherries.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\chicken.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\chocolate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\cookie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\corn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\crab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\croissant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\cupcake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\doughnut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\eggplant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\fish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\french-fries.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\fried-egg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\grapes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\hamburger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\honey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\hot-dog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\ice-cream.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\ketchup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\kiwi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\lemon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\lettuce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\lobster.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\lollipop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\mushroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\noodles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\olive-oil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\onion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\peach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\pear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\peas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\pineapple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\pizza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\popcorn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\pumpkin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\rice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\shrimp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\steak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\strawberry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\tomato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\turnip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items\watermelon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background\Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background\FullBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background\Ground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background\Tile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background\Door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gracz\Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Music\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
